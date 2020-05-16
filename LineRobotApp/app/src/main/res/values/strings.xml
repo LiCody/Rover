@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LineRobotApp</string>
+    <string name="power">Power</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="Left">LEFT</string>
+    <string name="Right">RIGHT</string>
+    <string name="Forwards">FORWARDS</string>
+    <string name="Backwards">BACKWARDS</string>
+    <string name="Connect">CONNECT</string>
+    <string name="Stop">STOP</string>
+    <string name="Start">START</string>
+    <string name="Exit">EXIT</string>
+</resources>
